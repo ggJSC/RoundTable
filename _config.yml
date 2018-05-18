@@ -6,7 +6,7 @@
 name: RoundTable
 
 # Short bio or description (displayed in the header)
-description: Application for integrating meeting minutes, action items, and lessons learned.
+description: An application for integrating meeting minutes, action items, and lessons learned.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/ggJSC/RoundTable/master/images/logo.png
