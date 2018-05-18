@@ -30,9 +30,15 @@
 }
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-  color: 	#565656;
+  color: 	black;
+}
+
+.main-content h1 {
+  text-align: center;	
 }
 
 @media screen and (min-width: 64em) {
-	padding: 3rem 6rem;
+	.page-header {
+	  padding: 3rem 6rem;	
+	}
 }
