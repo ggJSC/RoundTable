@@ -43,7 +43,11 @@
 	max-width: 80%;
 	
 	p {
-		max-width: 80%;	
+		max-width: 80%;
+		position: relative;
+    		left: 50%;
+    		transform: translateX(-50%);
+		-webkit-transform: translateX(-50%);
 	}
 	
 	h1 {
