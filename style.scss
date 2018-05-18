@@ -289,3 +289,7 @@ footer {
 @import "svg-icons";
 
 @import "{{ site.theme }}";
+
+.page-header {
+  background-image: linear-gradient(135deg, #6C67E7, #6FB4E6);
+}
