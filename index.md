@@ -5,7 +5,7 @@ layout: default
 # What you need most. All in one place.
 ![Main View](https://raw.githubusercontent.com/ggJSC/RoundTable/master/images/MainView.jpg)
 
-# Format your minutes just the way you want.
+# Format your minutes the way you want.
 ![Formatting](https://raw.githubusercontent.com/ggJSC/RoundTable/master/images/Formatting.png)
 
 # Effortlessly upload and insert images.
