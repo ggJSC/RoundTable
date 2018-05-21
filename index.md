@@ -9,7 +9,7 @@ layout: default
 ![Formatting](https://raw.githubusercontent.com/ggJSC/RoundTable/master/images/Formatting.png)
 
 # Effortlessly upload and insert images.
-![Image Upload](https://raw.githubusercontent.com/ggJSC/RoundTable/master/images/Image_Upload.jpg)
+![Image Upload](https://raw.githubusercontent.com/ggJSC/RoundTable/master/images/Image_Upload.png)
 
 # Create detailed action items for your most important tasks.
 ![Action Item](https://raw.githubusercontent.com/ggJSC/RoundTable/master/images/Action_Item_2.jpg)
