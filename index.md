@@ -12,7 +12,7 @@ layout: default
 ![Image Upload](https://raw.githubusercontent.com/ggJSC/RoundTable/master/images/Image_Upload.png)
 
 # Create detailed action items for your most important tasks.
-![Action Item](https://raw.githubusercontent.com/ggJSC/RoundTable/master/images/Action_Item_2.jpg)
+![Action Item](https://raw.githubusercontent.com/ggJSC/RoundTable/master/images/Action_Item_2.png)
 
 # Track, filter, and search through all your organization's action items.
 ![Filter and Search](https://raw.githubusercontent.com/ggJSC/RoundTable/master/images/Filter_Search.PNG)
