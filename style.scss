@@ -41,13 +41,18 @@
 	.page-header {
 	  padding: 3rem 6rem;	
 	}
+	
+	.main-content {
+	  img {
+		  max-width: 125%;	
+		}
+	}
 }
 
 .main-content {
 	max-width: 80%;
 	
 	p {
-		max-width: 80%;
 		position: relative;
     		left: 50%;
     		transform: translateX(-50%);
