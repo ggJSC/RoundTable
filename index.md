@@ -18,4 +18,4 @@ layout: default
 ![Filter and Search](https://raw.githubusercontent.com/ggJSC/RoundTable/master/images/Filter_Search.PNG)
 
 # Keep your team informed with lessons learned.
-![Lesson Learned](https://raw.githubusercontent.com/ggJSC/RoundTable/master/images/Lesson_Learned_1.PNG)
+![Lesson Learned](https://raw.githubusercontent.com/ggJSC/RoundTable/master/images/Lesson_Learned_1.png)
